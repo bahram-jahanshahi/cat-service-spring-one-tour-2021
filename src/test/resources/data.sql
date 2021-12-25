@@ -1,1 +1,0 @@
-insert into cat (id, name, date_of_birth) values ( nextval('hibernate_squence'), 'Toby', current_date );
